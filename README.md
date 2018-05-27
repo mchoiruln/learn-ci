@@ -7,4 +7,6 @@ Just simple learn CI with travis.ci service
 
 [ ![Codeship Status for mchoiruln/travis-ci-learn](https://app.codeship.com/projects/6b60eb30-43d8-0136-3ede-62fd778c83b5/status?branch=master)](https://app.codeship.com/projects/291706)
 
+[![Ebert](https://ebertapp.io/github/mchoiruln/learn-ci.svg)](https://ebertapp.io/github/mchoiruln/learn-ci)
+
 Language : javascript, node.js
