@@ -1,5 +1,6 @@
 # travis-ci-learn
 Just simple learn CI services
+Language : javascript, node.js
 
 [![Build Status](https://travis-ci.org/mchoiruln/travis-ci-learn.svg?branch=master)](https://travis-ci.org/mchoiruln/travis-ci-learn)
 
@@ -11,4 +12,4 @@ Just simple learn CI services
 
 [![Build Status](https://semaphoreci.com/api/v1/mchoiruln/learn-ci/branches/master/badge.svg)](https://semaphoreci.com/mchoiruln/learn-ci)
 
-Language : javascript, node.js
+[![StyleCI](https://github.styleci.io/repos/134930518/shield?branch=master)](https://github.styleci.io/repos/134930518)
