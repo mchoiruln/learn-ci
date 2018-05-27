@@ -1,4 +1,4 @@
-# travis-ci-learn
+# ci-learn
 Just simple learn CI services
 Language : javascript, node.js
 
