@@ -8,3 +8,5 @@ Language : javascript, node.js
 [![Ebert](https://ebertapp.io/github/mchoiruln/learn-ci.svg)](https://ebertapp.io/github/mchoiruln/learn-ci)
 [![Build Status](https://semaphoreci.com/api/v1/mchoiruln/learn-ci/branches/master/badge.svg)](https://semaphoreci.com/mchoiruln/learn-ci)
 [![StyleCI](https://github.styleci.io/repos/134930518/shield?branch=master)](https://github.styleci.io/repos/134930518)
+[![Maintainability](https://api.codeclimate.com/v1/badges/61ed959480721a5d4c29/maintainability)](https://codeclimate.com/github/mchoiruln/learn-ci/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/61ed959480721a5d4c29/test_coverage)](https://codeclimate.com/github/mchoiruln/learn-ci/test_coverage)
